@@ -1,0 +1,5 @@
+pyspark==3.5.0
+requests==2.31.0
+jsons==1.6.3
+pandas
+pyarrow
